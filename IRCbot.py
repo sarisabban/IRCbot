@@ -7,7 +7,7 @@ import datetime
 SERVER =	'irc.freenode.net'
 PORT =		6667
 NICKNAME =	'GromacsBot'
-CHANNEL =	'#gromacss'
+CHANNEL =	'#gromacs'
 
 #Response Text:
 TEXT = 'Hello, I am a bot. This is a young channel dedicated for Gromacs Molecular Dynamics Simulation, be patient and more people will join. Help us grow the channel by telling other users to join us :-)'
